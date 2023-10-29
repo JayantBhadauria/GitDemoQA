@@ -5,7 +5,8 @@ public class FirstFile {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Testing Cloning ");
-		System.out.print("New Merge");
+		System.out.print("New Merge 2");
+		
 		
 	}
 
