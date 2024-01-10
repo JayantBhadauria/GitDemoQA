@@ -20,6 +20,7 @@ public class jdbc_connection {
 			System.out.println("Successfully deleted");
 		}
 //		stm.execute("insert into testdata values('Sign up',false,'Jayant Bhadauria')");
+		System.out.println("Fetching data");
 		ResultSet result=stm.executeQuery("Select * from testdata");
 		while(result.next()) {
 			int i=1;
