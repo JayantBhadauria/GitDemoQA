@@ -27,6 +27,7 @@ public class jdbc_connection {
 			while(i<=3) {
 				System.out.println(result.getString(i));
 				i++;
+				j++;
 			}
 		}
 		System.out.println("END OF TEST");
