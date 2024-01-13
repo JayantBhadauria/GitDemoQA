@@ -7,6 +7,7 @@ public class FirstFile {
 		//Comment on 8:58AM
 		System.out.println("Happy Lorhi");
 		System.out.println("Merge for Feature1 Branch");
+		System.out.println("Merge2 for Feature1 Branch");
 		
 	}
 
