@@ -7,6 +7,7 @@ public class FirstFile {
 		//Comment on 8:58AM
 		System.out.println("Happy Lorhi");
 		System.out.println("Bug fixes are there");
+		System.out.println("Bug fixes2 are there");
 	}
 
 }
